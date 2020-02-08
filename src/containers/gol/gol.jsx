@@ -777,12 +777,7 @@ class GOL extends React.Component {
             marginY={20}
           >
             <Text fontSize="16px" color="#fff">
-              Game of Links is main preparation before cyber main network
-              launch. Participants of takeoff donations and 7 disciplines could
-              get max prize in terms of 10% of CYB in Genesis.{' '}
-              <a target="_blank" href="https://cybercongress.ai/game-of-links/">
-                Details here
-              </a>
+              Welcome to the intergalactic tournament Game of Links. GoL - is the main preparation before <a href="/#/search/genesis">the main network launch</a> of <a href="https://ipfs.io/ipfs/QmceNpj6HfS81PcCaQXrFMQf7LR5FTLkdG9sbSRNy3UXoZ">the cyber protocol</a>. Main goal of the tournament is to collectively bootstrap <a href="/#/brain">Superintelligence</a>. Athletes must solve different parts of the puzzle and could win up to 10% of CYB in the Genesis. Read full rules of the tournament <a target="_blank" href="https://cybercongress.ai/game-of-links/">in the organizator's blog</a>.
             </Text>
           </Pane>
           <Pane
